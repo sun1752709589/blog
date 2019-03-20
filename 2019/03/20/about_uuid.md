@@ -1,4 +1,4 @@
-# UUID的分类和各自优缺点
+# UUID的版本和各自优缺点
 
 ## 简介
 UUID(Universally Unique Identifier)通用唯一识别码，UUID出现的目的，是为了让分布式系统可以不借助中心节点，就可以生成UUID来标识一些唯一的信息。GUID(Globally Unique Identifier)全局唯一识别码，跟UUID是同一个东西，微软搞得。
