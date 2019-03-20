@@ -1,7 +1,7 @@
 # UUID的分类和各自优缺点
 
 ## 简介
-UUID(Universally Unique Identifier)通用唯一识别码，UUID出现的目的，是为了让分布式系统可以不借助中心节点，就可以生成UUID来标识一些唯一的信息。GUID(Globally Unique Identifier)全局唯一识别码，跟UUID是同一个东西，只是是微软的东西。
+UUID(Universally Unique Identifier)通用唯一识别码，UUID出现的目的，是为了让分布式系统可以不借助中心节点，就可以生成UUID来标识一些唯一的信息。GUID(Globally Unique Identifier)全局唯一识别码，跟UUID是同一个东西，微软搞得。
 
 ## 不同版本简介
 UUID本身也经过了多个版本的演化，每个版本的算法都不一样。
@@ -67,3 +67,6 @@ UUID('a027e5d8-c884-588a-90e6-1be7093a70c4')
 >>> uuid.uuid5(uuid.NAMESPACE_DNS, "testUUID")
 UUID('7442cf28-372f-58e0-a798-1804187a4395')
 ```
+
+## 拓展阅读：美团点评分布式ID生成系统
+[美团点评分布式ID生成系统](https://tech.meituan.com/2017/04/21/mt-leaf.html)
