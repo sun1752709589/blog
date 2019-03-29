@@ -12,5 +12,6 @@
 9. [随机字符串UUID的版本和各自优缺点](2019/03/20/about_uuid.md)
 10. [手把手教你安装python版本管理工具pyenv](2019/03/27/how_install_pyenv.md)
 11. [FILCO蓝牙机械键盘之重新配置](2019/03/28/reset_filco.md)
+12. [python虚拟环境virtualenv的安装和使用](2019/03/29/how_use_virtualenv.md)
 
 ## 2019年04月
