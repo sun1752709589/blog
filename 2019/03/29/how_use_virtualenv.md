@@ -7,11 +7,9 @@ python3 -m venv py1
 使用这个命令来让Python运行venv包，它会创建一个名为venv的虚拟环境。 命令中的第一个venv是Python虚拟环境包的名称，第二个py2是要用于这个特定环境的虚拟环境名称。
 
 source ./bin/activate
-
 此命令为激活虚拟环境。
 
 deactivate
-
 用此命令退出当前虚拟环境。
 
 ## 使用独立的virtualenv包
