@@ -3,10 +3,10 @@
 
 ## 软件截图
 ![展示图](imgs/break.jpg)
-![展示图01](imgs/bt01.png)
+<!-- ![展示图01](imgs/bt01.png)
 ![展示图02](imgs/bt02.png)
 ![展示图03](imgs/bt03.png)
-![展示图04](imgs/bt04.png)
+![展示图04](imgs/bt04.png) -->
 
 ## chrome插件下载地址
 [chrome插件地址](https://chrome.google.com/webstore/detail/break-timer/hklkdbpicdmlpoiellngedpejjkmapei?utm_source=chrome-ntp-icon)
