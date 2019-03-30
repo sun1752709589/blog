@@ -3,7 +3,7 @@
 
 ## 软件截图
 ![展示图](imgs/break.jpg)
-![展示图01](imgs/bt01.jpg)
+![展示图01](imgs/bt01.png)
 ![展示图02](imgs/bt02.png)
 ![展示图03](imgs/bt03.png)
 ![展示图04](imgs/bt04.png)
