@@ -13,13 +13,14 @@
 ## 蓝牙配对及注意事项
 
 蓝牙配对：
-![触控板](imgs/wireless04.jpg)
+![蓝牙配对](imgs/wireless04.jpg)
+在要配对的设备上(比如Mac)蓝牙搜索界面会出现新设备(WH-H900N),点击配对，则会配对成功。
 
 配对注意事项：
-![触控板](imgs/wireless05.jpg)
+![配对注意事项](imgs/wireless05.jpg)
 
 ## 恢复出厂设置
 ![恢复出厂设置](imgs/wireless06.jpg)
 
-## 更详尽的使用指南
+## 官方指南
 [官方使用指南](https://helpguide.sony.net/mdr/whh900n/v1/zh-cn/index.html)
