@@ -17,3 +17,4 @@
 
 ## 2019年04月
 1. [Sony WH-H900N蓝牙耳机使用教程](2019/04/03/sony_wireless.md)
+1. [我的python基础学习笔记](2019/04/04/python_base.md)
