@@ -11,7 +11,7 @@
 
 ![设置新的默认打开方式](imgs/new_default_open.jpg)
 
-再次用右键，查看默认打开方式：
+再次查看默认打开方式：
 
 ![新的默认打开方式](imgs/last_open.jpg)
 
