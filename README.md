@@ -19,3 +19,4 @@
 1. [Sony WH-H900N蓝牙耳机使用教程](2019/04/03/sony_wireless.md)
 2. [我的python基础学习笔记](2019/04/04/python_base.md)
 3. [如何设置macOS系统的默认打开方式](2019/04/09/mac_default_open.md)
+4. [ruby如何处理文件的压缩和解压(zip格式)](2019/04/12/ruby_zip_file.md)
