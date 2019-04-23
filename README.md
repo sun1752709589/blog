@@ -22,7 +22,7 @@
 04. [ruby如何处理文件的压缩和解压(zip格式)](2019/04/12/ruby_zip_file.md)
 05. [ruby编码风格指南个人版](2019/04/11/ruby_style_guide.md)
 06. [JSON Web Token原理及ruby版实现](2019/04/23/ruby_jwt.md)
-07. [手把手教你搭建自己的内网穿透服务](2019/04/23/ruby_jwt.md)
-08. [如何做技术管理-第一季](2019/04/23/ruby_jwt.md)
+07. [手把手教你搭建自己的内网穿透服务](2019/04/24/self_host_ngrok.md)
+08. [如何做技术管理-第一季](2019/04/23/how_manage_developers.md)
 
 ## 2019年05月
