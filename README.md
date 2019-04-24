@@ -24,5 +24,6 @@
 06. [JSON Web Token原理及ruby版实现](2019/04/23/ruby_jwt.md)
 07. [手把手教你搭建自己的内网穿透服务](2019/04/24/self_host_ngrok.md)
 08. [如何做技术管理-第一季](2019/04/25/how_manage_developers.md)
+09. [详解Linux的nohup和&](2019/04/26/nohup_detail.md)
 
 ## 2019年05月
