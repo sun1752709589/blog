@@ -1,7 +1,7 @@
 # 孙亚飞个人博客：【技术，金融，生活，读书，数码，历史】
 
 ## 2019年03月
-01. [读书网站推荐:周读](2019/03/05/read_book_recommend.md)
+01. [读书网站推荐:周读、Kindle电子书分享网](2019/03/05/read_book_recommend.md)
 02. [基于neo4j图数据库的币价转换](2019/03/05/currency_convert_use_neo4j.md)
 03. [谈谈基金(投资)的分类](2019/03/06/fund_types.md)
 04. [聊聊ES节点角色该怎么配置](2019/03/12/elas_node_role.md)
