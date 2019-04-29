@@ -26,5 +26,6 @@
 08. [如何做技术管理-第一季](2019/04/25/how_manage_developers.md)
 09. [详解Linux的nohup和&](2019/04/26/nohup_detail.md)
 10. [读书阅读器推荐](2019/04/28/reader_recommend.md)
+11. [MySQL全文索引fulltext初探](2019/04/29/mysql_fulltext.md)
 
 ## 2019年05月
