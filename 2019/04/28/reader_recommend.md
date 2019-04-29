@@ -11,3 +11,8 @@
 iPad mini：https://item.jd.com/100004245972.html
 
 APP：https://itunes.apple.com/cn/app/amazon-kindle/id302584613
+
+## iPad mini + IBooks
+IBooks支持除mobi格式的绝大部分根式，包括PDF，TXT，EPUB...
+
+![iPad mini + IBooks](imgs/ipad-ibooks.jpg)
