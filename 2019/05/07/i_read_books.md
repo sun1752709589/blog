@@ -35,7 +35,9 @@ EXPLAIN SELECT * FROM books WHERE MATCH(name) AGAINST ('冰与火之歌' IN NATU
 
 ## bootstrap和分页UI
 bootstrap: https://github.com/twbs/bootstrap-rubygem
+
 bootstrap分页UI: https://github.com/KamilDzierbicki/bootstrap4-kaminari-views
+
 bootstrap自带导航栏：navbar fixed-top
 
 ## 缓存memcached + dalli
