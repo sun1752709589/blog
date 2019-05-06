@@ -85,6 +85,8 @@ http://www.google.com/ping?sitemap=https://kindle.51nazhun.pub/sitemap.xml
 ```
 更高级的SEO网站优化请使用：Google Search Console
 
+其他搜索引擎提交入口可访问：http://www.sousuoyinqingtijiao.com/
+
 ## robots.txt协议怎么写
 主要是配置Disallow，将不想被抓取的路径加入进去。
 ```ruby
