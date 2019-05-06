@@ -81,6 +81,21 @@ func main() {
 ## 怎样提交sitemap给Google
 sitemap XML format文件的书写请参考：https://www.sitemaps.org/protocol.html
 
+XML格式示例：
+```ruby
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://kindle.51nazhun.pub/</loc>
+    <lastmod>2019-05-05</lastmod>
+  </url>
+  <url>
+    <loc>https://kindle.51nazhun.pub/books/search?q=%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C</loc>
+    <lastmod>2019-05-05</lastmod>
+  </url>
+</urlset>
+```
+
 ```shell
 # 给谷歌提交站点地图
 http://www.google.com/ping?sitemap=https://kindle.51nazhun.pub/sitemap.xml
