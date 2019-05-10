@@ -19,6 +19,7 @@ redis: 4.0.1(gem)
 redis-server: 5.0.3 # 计数
 dalli: 2.7.10 # 缓存
 colly: master # go爬虫
+rack-attack: 6.0.0 # 限制恶意访问
 ```
 ## ruby jit
 参考：https://blog.heroku.com/ruby-just-in-time-compilation
