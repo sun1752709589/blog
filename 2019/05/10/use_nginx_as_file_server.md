@@ -16,7 +16,7 @@ server{
     }
 }
 ```
-此时，通过浏览器访问http://test.alipay.com/doc/test.txt，则访问服务器的文件是/you/file/dir/test.txt。即使用`/you/file/dir/`替换了`/doc/`。
+此时，通过浏览器访问`http://test.alipay.com/doc/test.txt`，则访问服务器的文件是/you/file/dir/test.txt。即使用`/you/file/dir/`替换了`/doc/`。
 
 ### root
 ```ruby
@@ -28,7 +28,7 @@ server{
     }
 }
 ```
-此时，通过浏览器访问http://test.alipay.com/doc/test.txt，则访问服务器的文件是/you/file/dir/doc/test.txt。即`/you/file/dir`+`/doc/test.txt`
+此时，通过浏览器访问`http://test.alipay.com/doc/test.txt`，则访问服务器的文件是/you/file/dir/doc/test.txt。即`/you/file/dir`+`/doc/test.txt`
 
 
 ### alias和root的区别
