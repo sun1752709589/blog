@@ -37,3 +37,6 @@
 05. [如何将nginx当做静态资源服务器](2019/05/10/use_nginx_as_file_server.md)
 06. [宋鸿兵推荐的七本书](2019/05/15/songhongbing_recommend_books.md)
 06. [关于对版权的回应](2019/05/17/reply_about_copyright.md)
+
+## 2019年06月
+01. [关于写作这件事](2019/06/01/about_write.md)
