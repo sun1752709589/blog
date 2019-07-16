@@ -38,8 +38,8 @@ for (i=0; i<n; i++) {
 ```python
 # 快速排序的复杂度就是线性对数阶时间复杂度
 for (i=0; i<n; i++) {
-  for (j=0; i<i; i=i*2) {
-    print(i)
+  for (j=0; j<i; i=i*2) {
+    print(i, j)
   }
 }
 ```
@@ -48,7 +48,7 @@ for (i=0; i<n; i++) {
 ```python
 # 说白了就是二层循环
 for (i=0; i<n; i++) {
-  for (j=0; i<n; j++) {
+  for (j=0; j<n; j++) {
     print(i, j)
   }
 }
@@ -58,7 +58,7 @@ for (i=0; i<n; i++) {
 ```python
 # 说白了就是三层循环
 for (i=0; i<n; i++) {
-  for (j=0; i<n; j++) {
+  for (j=0; j<n; j++) {
     for (k=0; k<n; k++) {
       print(i, j, k)
     }
