@@ -51,3 +51,4 @@
 01. [如何像经济学家一样思考](2019/07/10/think_like_economist.md)
 02. [经济学家意见分歧的原因](2019/07/11/economist_divergence.md)
 03. [区块链的底层数据结构](2019/07/14/block_chain.md)
+04. [算法时间复杂度总结](2019/07/16/algorithm_complex.md)
