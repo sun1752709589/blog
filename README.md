@@ -52,3 +52,4 @@
 02. [经济学家意见分歧的原因](2019/07/11/economist_divergence.md)
 03. [区块链的底层数据结构](2019/07/14/block_chain.md)
 04. [算法时间复杂度总结](2019/07/16/algorithm_complex.md)
+05. [并查集入门指南](2019/07/23/find_and_union.md)
