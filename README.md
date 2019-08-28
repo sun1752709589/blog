@@ -60,4 +60,3 @@
 01. [良渚文化：比大禹治水还早一千年！](2019/08/13/liangzhu.md)
 02. [货币的起源及发展](2019/08/14/currency.md)
 03. [算法指导你如何找对象](2019/08/20/find_object.md)
-04. [如何在Ubuntu18.04上面安装postgresql11](2019/08/27/install_postgres_on_ubuntu18.md)
