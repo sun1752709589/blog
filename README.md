@@ -62,3 +62,7 @@
 03. [算法指导你如何找对象](2019/08/20/find_object.md)
 04. [如何在Ubuntu18.04上面安装postgresql11](2019/08/27/install_postgres_on_ubuntu18.md)
 05. [分布式系统概念初涉](2019/08/29/distributed_system.md)
+
+### 2019年09月
+01. [python分布式任务队列之celery入门教程](2019/09/03/celery_guide.md)
+02. [python包管理工具之Anaconda入门教程](2019/09/04/conda_guide.md)
