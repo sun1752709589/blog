@@ -67,3 +67,4 @@
 01. [python分布式任务队列之celery入门教程](2019/09/03/celery_guide.md)
 02. [python包管理工具之Anaconda入门教程](2019/09/04/conda_guide.md)
 03. [如何为python源代码做版权保护](2019/09/06/python_source_code_protect.md)
+03. [使用cProfile剖析你的python代码性能](2019/09/15/python_cprofile.md)
