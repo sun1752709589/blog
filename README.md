@@ -69,3 +69,6 @@
 03. [如何为python源代码做版权保护](2019/09/06/python_source_code_protect.md)
 04. [使用cProfile剖析你的python代码性能](2019/09/15/python_cprofile.md)
 05. [如何为你的keras模型文件加密](2019/09/20/keras_model_encrypt.md)
+
+### 2019年10月
+01. [python操作MongoDB之PyMongo学习手册](2019/10/17/pymongo.md)
