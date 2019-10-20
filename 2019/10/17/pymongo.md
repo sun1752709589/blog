@@ -137,3 +137,11 @@ print(result)
 result = collection.delete_many({'age': {'$lt': 25}})
 print(result)
 ```
+
+### 索引
+```python
+# 在students表的id字段创建索引
+result = db.students.create_index([('id', pymongo.ASCENDING)], unique=True)
+result = sorted(list(db.students.index_information()))
+print(result)
+```
