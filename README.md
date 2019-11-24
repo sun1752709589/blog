@@ -72,3 +72,6 @@
 
 ### 2019年10月
 01. [python操作MongoDB之PyMongo学习手册](2019/10/17/pymongo.md)
+
+### 2019年11月
+01. [Python中collections.defaultdict()使用](2019/11/24/defaultdict.md)
