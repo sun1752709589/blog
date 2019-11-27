@@ -75,3 +75,4 @@
 
 ### 2019年11月
 01. [Python中collections.defaultdict()使用](2019/11/24/defaultdict.md)
+02. [rails6的新特性介绍](2019/11/27/new-2-rails6.md)
