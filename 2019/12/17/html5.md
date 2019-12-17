@@ -16,3 +16,40 @@ HTML5现在基本所有主流浏览器都支持，包括Chrome、Firefox、Safar
 表单：新增了一些标记和属性
 
 简洁：从代码角度而言，更简洁。
+
+### HTML5新增布局标签
+![HTML5新增布局标签](imgs/01.jpg)
+
+### IE8及以下怎么兼容HTML5
+引入script：html5shiv.min.js
+
+### 表单新增属性type
+email：提供了对邮箱是否合法的完整验证
+
+tel：并不提供电话号码验证，而是为了在移动端打开数字键盘。
+
+url：验证是否是合法网址
+
+number：验证是否是数字，并且提供+1或者-1的按钮，并且可以设置min、max、default的值。
+
+search：提供更人性化的输入体验，输入内容后，有一个全删的×号。
+
+range：设置范围，比如音量范围。
+
+color：颜色摄取器
+
+time：时间输入
+
+date：日历控件
+
+datetime：现在大多数浏览器都不支持这个
+
+datetime-local：日期、时间选择器
+
+month：月份选择
+
+week：星期选择
+
+![表单新增属性type](imgs/02.jpg)
+
+![表单新增属性type](imgs/03.jpg)
