@@ -53,3 +53,22 @@ week：星期选择
 ![表单新增属性type](imgs/02.jpg)
 
 ![表单新增属性type](imgs/03.jpg)
+
+### 表单新增其他属性
+placeholder：提示信息
+
+autofocus：自动获取焦点
+
+autocomplete：on打开 off关闭
+autocomplete生效必须有二个前提：
+1.必须成功提交过
+2.当前元素必须有name属性
+
+required：必须填写
+
+pattern：正则表达式验证
+
+file：文件上传，multiple属性可以选择多个文件
+
+![表单新增属性](imgs/04.jpg)
+
