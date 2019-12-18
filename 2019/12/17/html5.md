@@ -84,3 +84,14 @@ oninvalid：当验证不通过时触发
 ### 进度条progress
 
 ![进度条progress](imgs/06.jpg)
+
+### 音频视频标签
+audio：音频
+
+video：视频
+
+video只需设置宽度或者高度就行，浏览器会自动等比例缩放，如果都设置，则并不会起作用。
+
+共有的属性：src controls autoplay loop
+
+![音频视频标签](imgs/07.jpg)
