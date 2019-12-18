@@ -72,3 +72,15 @@ file：文件上传，multiple属性可以选择多个文件
 
 ![表单新增属性](imgs/04.jpg)
 
+### 新增表单事件
+oninput：当输入框内容修改时触发
+
+onkeyup：当键盘键弹起时触发
+
+oninvalid：当验证不通过时触发
+
+![新增表单事件](imgs/05.jpg)
+
+### 进度条progress
+
+![进度条progress](imgs/06.jpg)
