@@ -129,3 +129,9 @@ item：从下标0索引开始获取class
 ### 全屏接口的使用
 
 ![全屏接口的使用](imgs/11.jpg)
+
+### fileReader的使用：文件上传时即时预览
+
+![fileReader的使用](imgs/12.jpg)
+
+![fileReader的使用](imgs/13.jpg)
