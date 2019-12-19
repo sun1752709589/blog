@@ -95,3 +95,29 @@ video只需设置宽度或者高度就行，浏览器会自动等比例缩放，
 共有的属性：src controls autoplay loop
 
 ![音频视频标签](imgs/07.jpg)
+
+### dom选择器
+document.getElementByID
+
+document.getElementByTagName
+
+document.querySelector
+
+document.querySelectorAll
+
+### 元素的classList常用方法
+add：给当前元素增加class类
+
+remove：当前元素移除class类
+
+toggle：如果当前元素没有要加的class类则增加，如果有要加入的class类则移除
+
+contains：当前元素是否包含某class
+
+item：从下标0索引开始获取class
+
+![元素的classList常用方法](imgs/08.jpg)
+
+### HTML5自定义属性
+
+![HTML5自定义属性](imgs/09.jpg)
