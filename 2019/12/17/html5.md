@@ -135,3 +135,7 @@ item：从下标0索引开始获取class
 ![fileReader的使用](imgs/12.jpg)
 
 ![fileReader的使用](imgs/13.jpg)
+
+### 拖拽事件：ondrag
+![应用于被拖拽元素的事件](imgs/14.jpg)
+![应用于目标元素的事件](imgs/15.jpg)
