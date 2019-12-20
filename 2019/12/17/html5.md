@@ -137,5 +137,11 @@ item：从下标0索引开始获取class
 ![fileReader的使用](imgs/13.jpg)
 
 ### 拖拽事件：ondrag
+```html
+<!-- 元素可被拖拽声明 -->
+<div id="div1">
+    <p draggable="true">我可以被拖拽</p>
+</div>
+```
 ![应用于被拖拽元素的事件](imgs/14.jpg)
 ![应用于目标元素的事件](imgs/15.jpg)
