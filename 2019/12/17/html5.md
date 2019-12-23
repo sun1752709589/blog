@@ -148,3 +148,18 @@ item：从下标0索引开始获取class
 
 ### 获取地理位置接口
 ![获取地理位置接口](imgs/17.jpg)
+
+### sessionStorage的使用
+sessionStorage可存储大小为5MB，生命周期为当前页面，数据存在当前页面内存中。
+
+![sessionStorage的使用](imgs/18.jpg)
+
+### localStorage的使用
+localStorage可存储大小为20MB，不同浏览器不能共享数据但是同一浏览器不同窗口可以共享数据。
+
+生命周期为永久生效，其数据存储在硬盘上，不会随着浏览器关闭而删除
+
+![sessionStorage的使用](imgs/19.jpg)
+
+### 应用程序缓存
+![应用程序缓存](imgs/20.jpg)
